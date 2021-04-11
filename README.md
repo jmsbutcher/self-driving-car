@@ -16,7 +16,7 @@ The weights are updated via the Adam optimizer.
 
 The architecture demonstrated in the course was good enough to get the car to learn how to navigate this simple road with two turns:
 
-<img src="">
+<img src="https://github.com/jmsbutcher/self-driving-car/blob/main/self_driving_car_1.PNG">
 
 <br>
 
@@ -28,4 +28,4 @@ I was able to achieve this by:
 - increasing the reward window from 1,000 to 10,000, and
 - decreasing the time-cost reward as the car travels from -0.2 to -0.01
 
-<img src="">
+<img src="https://github.com/jmsbutcher/self-driving-car/blob/main/self_driving_car_2.PNG">
