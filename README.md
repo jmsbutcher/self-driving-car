@@ -5,7 +5,7 @@ A deep-reinforcement-learning agent (car) that learns to drive across a map whil
 
 This was one of the guided projects in the first Artificial Intelligence course I took for fun:  
 Artificial Intelligence A-Z™: Learn How To Build An AI  
-by Hadelin de Ponteves and kirill Eremenko 
+by Hadelin de Ponteves and kirill Eremenko  
 https://www.udemy.com/course/artificial-intelligence-az/
 
 A deep neural network takes sensor readings from the car and outputs a steering action.  
