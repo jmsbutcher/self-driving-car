@@ -1,6 +1,8 @@
 # self-driving-car
 A deep-reinforcement-learning agent (car) that learns to drive across a map while avoiding obstacles
 
+March, 2019
+
 #### Technologies used: Python, Pytorch, Numpy, Kivy
 
 This was one of the guided projects in the first Artificial Intelligence course I took for fun:  
